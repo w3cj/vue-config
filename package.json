@@ -1,0 +1,15 @@
+{
+  "name": "vue-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md  --theme night --highlightTheme hybrid --port 1337 -i custom.js README.md"
+  },
+  "keywords": [],
+  "author": "w3cj <cj@null.computer>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^0.4.0"
+  }
+}
