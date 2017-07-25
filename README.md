@@ -38,12 +38,17 @@
 
 ----
 
-* CommonJS modules
-* Classes
-* Arrow Functions
-* Template Strings
-* Destructuring
-* Method Definitions
+## ES2015
+
+* [ES6 Features Repo](https://github.com/lukehoban/es6features#readme)
+  * CommonJS modules
+    * [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+    * [export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+  * [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+  * [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+  * [Template Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+  * [Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+  * [Method Definitions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions)
 
 ---
 
